@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @SM2021-hue
+- 👋 Hi, I’m @SuneetaModekurty
 - 👀 I’m interested in Machine Learning Engineering
 - 🌱 I’m currently learning the MLE techniques
 - 💞️ I’m looking to collaborate on various projects that involve classification and regression, NLP and CV problems
